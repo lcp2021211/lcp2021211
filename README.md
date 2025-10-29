@@ -14,6 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">
+  <a href="#" data-fix-readme-link-style></a>
+  <i>
+    <samp>
+      > 我是lcp！
+    </samp>
+  </i>
+</h3>
+
+<h3 align="center">
+  <a href="#" data-fix-readme-link-style></a>
+  <i>
+    <samp>
+      > 保持好奇！保持前进！
+    </samp>
+  </i>
+</h3>
+
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -22,8 +40,6 @@ Here are some ideas to get you started:
   <img alt="GitHub watchers" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="GitHub contributors" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
-
-## github活动
 
 <!-- 我的贪吃小蛇 -->
 <picture>
