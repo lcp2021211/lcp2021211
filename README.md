@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lcp2021211/lcp2021211&type=date&legend=top-left)](https://www.star-history.com/#lcp2021211/lcp2021211&type=date&legend=top-left)
