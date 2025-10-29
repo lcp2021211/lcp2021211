@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-你好，我是lcp～～～
+<p align="center">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="GitHub forks" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  <img alt="GitHub watchers" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="GitHub contributors" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+</p>
 
-![svg](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![svg](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) ![svg](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![svg](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
+## github活动
 
 <!-- 我的贪吃小蛇 -->
 <picture>
