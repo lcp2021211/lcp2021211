@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lcp2021211/lcp2021211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
