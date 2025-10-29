@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 你好，我是lcp～～～
 
-[](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[0](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [1](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) [2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) [3](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
 
 <!-- 我的贪吃小蛇 -->
 <picture>
